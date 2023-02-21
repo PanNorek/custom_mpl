@@ -1,0 +1,10 @@
+# Font properties
+font.family: Segoe UI
+font.size: 16
+font.color: white
+
+# Legend properties
+legend.framealpha: 1
+legend.frameon: False
+
+axes.prop_cycle: cycler('color', ['F17925', 'fcd304', 'ec1c23', 'fcad08'])

@@ -1,0 +1,35 @@
+# Font properties
+font.family: Segoe UI
+font.weight:  bold
+font.size: 12
+
+# Legend properties
+legend.framealpha: 1
+legend.frameon: False
+
+# Set dark background default line colors to white.
+lines.color: white
+patch.edgecolor: white
+
+
+axes.facecolor: 212529
+axes.edgecolor: white
+axes.labelcolor: white
+axes.titleweight: bold
+
+text.color: white
+
+
+axes.prop_cycle: cycler('color', ['F17925', 'fcd304', 'ec1c23', 'fcad08'])
+axes.labelweight: bold
+
+xtick.color: white
+ytick.color: white
+
+
+figure.facecolor: 212529
+figure.edgecolor: 212529
+
+
+savefig.facecolor: 212529
+savefig.edgecolor: 212529
