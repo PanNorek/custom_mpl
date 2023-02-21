@@ -20,7 +20,7 @@ For example, to use the `powerbi.mplstyle` stylesheet, you would use the followi
 import custom_mpl
 import matplotlib.pyplot as plt
 
-plt.style.use('custom_mpl.powerbi')
+plt.style.use('powerbi')
 ```
 To use the `powerbi_dark.mplstyle` stylesheet, you would use the following code:
 
@@ -28,7 +28,7 @@ To use the `powerbi_dark.mplstyle` stylesheet, you would use the following code:
 import custom_mpl
 import matplotlib.pyplot as plt
 
-plt.style.use('custom_mpl.powerbi_dark')
+plt.style.use('powerbi_dark')
 ```
 
 ## <b>Contributing</b>
